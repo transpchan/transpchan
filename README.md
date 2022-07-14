@@ -1,6 +1,5 @@
-# Live3D
+## [Live3D v1 (CoNR)](https://live3d.ml)
 
-Stay tuned for the paper and code release.
 
 Discord https://discord.gg/Md3cykbn36
 Twitter https://twitter.com/transpchan
