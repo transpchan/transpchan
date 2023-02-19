@@ -5,7 +5,7 @@
 Projects:
 1. [Findpose(Closed)](https://transpchan.github.io/findpose/)
 2. [Waifucutout(Closed)](https://github.com/transpchan/waifucutout)
-3. [Live3D-v1, aka CoNR (Abandonded)](https://transpchan.github.io/live3d/)
+3. [Live3D-v1, aka CoNR (Abandoned)](https://transpchan.github.io/live3d/)
 4. [Live3D-v2 (Looking for maintainers)](https://github.com/transpchan/Live3D-v2)
 5. [Live3D-v3 (Looking for research donations)]
 
