@@ -1,6 +1,6 @@
 [Discord](https://discord.gg/Md3cykbn36)
 [Twitter](https://twitter.com/transpchan)
-[Bilibili](https://space.bilibili.com/6418569)
+[Youtube](https://www.youtube.com/@transpchan/playlists)
 
 Projects:
 1. [Findpose(Closed)](https://transpchan.github.io/findpose/)
